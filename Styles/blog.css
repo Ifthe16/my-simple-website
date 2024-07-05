@@ -7,3 +7,7 @@ img{
     margin-left: 5%;
     border: 10px solid black;
 }
+button{
+    background-color: whitesmoke;
+    color: red;
+}
