@@ -4,5 +4,6 @@ div{
     margin-bottom: 10px;
 }
 img{
-    margin-left: 10px;
+    margin-left: 5%;
+    border: 10px solid black;
 }
